@@ -216,7 +216,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
+	background-color: #6b6a6f;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
