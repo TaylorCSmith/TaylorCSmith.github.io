@@ -18,8 +18,8 @@ colors:  #in hex code if not noted else
   secondary: "C4610D" #"#33004D"
   link: "#222222"
   link_hover: "#474A48"
-  footer_heading: "#E8C547f"
-  footer_content: "#E8C547f"
+  footer_heading: "#4c4c4c"
+  footer_content: "#4c4c4c"
 
 # Making projects separate from posts
 collections:
