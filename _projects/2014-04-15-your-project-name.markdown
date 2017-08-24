@@ -2,7 +2,7 @@
 layout: project
 title:  "SELF ENERGY AUDIT API"
 date:   2014-04-25 16:54:46
-author: Matthew Mckinney, Sigrid Schneider, David Oluwole, Taylor Smith
+author: VS
 categories:
 - project
 img: hackdfw.jpg
