@@ -100,8 +100,10 @@ members:
 clients:
   - name: Kata
     img: katalogo.png
-  - name: Code is Poetry
-    img: client02.png
+    url: https://www.twitch.tv/jumpystick
+  - name: Fullstack
+    img: FSSymbol.png
+    url: https://www.twitch.tv/kensodev
   - name: Vimeo
     img: client03.png
   - name: VimeoPro
