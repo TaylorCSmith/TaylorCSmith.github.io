@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: Taylor Smith.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
@@ -19,7 +19,7 @@ colors:  #in hex code if not noted else
   link: "#222222"
   link_hover: "#474A48"
   footer_heading: "#4c4c4c"
-  footer_content: "#4c4c4c"
+  footer_content: "#ffffff"
 
 # Making projects separate from posts
 collections:
@@ -51,7 +51,7 @@ address:
     - Some Ave, 987,
     - 23890, New York,
     - United States.
-email: hello@solidtheme.com
+email: tcs140230@utdallas.edu
 tel: +34 8493-4893
 
 
@@ -100,10 +100,8 @@ members:
 clients:
   - name: Kata
     img: katalogo.png
-    url: https://www.twitch.tv/jumpystick
   - name: Fullstack
     img: FSSymbol.png
-    url: https://www.twitch.tv/kensodev
   - name: Vimeo
     img: client03.png
   - name: VimeoPro
