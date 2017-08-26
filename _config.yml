@@ -68,13 +68,13 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: https://twitter.com/KensoDev
-  - name: Paul Jameson
-    position: Lead Designer
+  - name: Omatum_Greg
+    position: Founder at Omatum
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    img: greg.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
+      - title: twitter #use for email address
+        url: https://www.twitch.tv/omatum_greg
       - title: twitter
         url: http://twitter.com/handle
   - name: Laura Sommers

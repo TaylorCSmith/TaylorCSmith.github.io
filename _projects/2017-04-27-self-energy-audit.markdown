@@ -15,10 +15,10 @@ carousel:
 - single03.jpg
 tagged: C#, Postman, asp.net MVC
 client: EarthHack DFW - HackDFW
-website: https://github.com/TaylorCSmith/EarthHack2017_SelfEnergyAuditAPI
+website: <a href="https://github.com/TaylorCSmith/EarthHack2017_SelfEnergyAuditAPI">Github Repo</a>
 ---
 #### Self Energy Audit API
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+Part of the Earthhack HackDFW event. It was a hackathon focused on forming some kind of app to help with sustainability. We decided to create a web application that allowed someone to perform their own energy audit at home. Basically, the idea was for users to go onto our website, create a profile, and enter basic information about the big energy consumers in their home... like their washing machine and so on. Month to month, if anything changed like they got a new washing machine, we would show them the impact and difference it would have both cost wise as well as power consuption differences.  
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+#### Results:
+Our project was a pretty basic one which fullfilled the base requirements for what we were aiming for (it's set up for easy scalability). For me this was a really big projects because it sort of solidified my belief that a career in CS instead of EE was that I wanted to do. 
