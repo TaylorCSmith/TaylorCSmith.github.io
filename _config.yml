@@ -34,25 +34,23 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+  - title: github
+    url: https://github.com/TaylorCSmith
+  - title: linkedin
+    url: https://www.linkedin.com/in/taylorcodysmith/
+  - title: twitch
+    url: https://www.twitch.tv/terrifictaylor
+  - title: code
+    url: https://www.hackerrank.com/taylor_cody_smi1
+  - title: cog
+    url: https://www.codewars.com/users/TaylorCSmith
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
+    - Dallas, Texas
     - United States.
 email: tcs140230@utdallas.edu
-tel: +34 8493-4893
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -108,10 +106,10 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Just an Electrical Engineering graduate trying to find his way in the world of software :)"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Wubba lubba dub-dub!"
-    author: Rick Sanchez
-    position: TINKERER OF TERROR - HIMSELF
+    message: "Let me reiterate: I'm talking about software. Hardware rules, in my experience, tend to actually be yes-we-mean-it rules. That's pretty much why I got out of electrical engineering and into software."
+    author: <font color="white">Jon Evans</font>
+    position: Novelist, Journalist, and Software Engineer

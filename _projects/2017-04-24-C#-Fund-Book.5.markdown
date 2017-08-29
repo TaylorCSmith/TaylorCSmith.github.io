@@ -11,7 +11,7 @@ img: fundofcsharp.jpg
 thumb: fundofcsharp.jpg
 carousel:
 - fundofcsharp.jpg
-- single02
+- single02.jpg
 - single03.jpg
 tagged: C#, Book, Software Fundamentals
 client: Self
