@@ -34,7 +34,7 @@ If you are new to the language, and programming in general, this book covers eve
 </ul>
 <br />
 <b>Overall: </b>
-I find this to be a great book and one I will probably recommend to anyone just getting started in C#. You can find my repo from my work in the book here: <a href="https://github.com/TaylorCSmith/AdditionalCSharp/tree/master/CSharp_Book_Work">Repo.</a> Keep in mind that I wasn't new to programming when I started this book, so while I read through a lot of the earlier chapters, I didn't do examples for them. <br /> 
+I find this to be a great book and one I will probably recommend to anyone just getting started in C#. You can find my repo from my work in the book here: <a href="https://github.com/TaylorCSmith/AdditionalCSharp/tree/master/CSharp_Book_Work" style="color:orange">Repo.</a> Keep in mind that I wasn't new to programming when I started this book, so while I read through a lot of the earlier chapters, I didn't do examples for them. <br /> 
 
 If you have any questions over the book or C# in general, feel free to ask me. I'm by no means an expert, but I'll try and provide help here I can. :)
 
