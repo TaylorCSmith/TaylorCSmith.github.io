@@ -1,24 +1,31 @@
 ---
 layout: project
-title:  "C# Fundamental Bookwork"
-date:   2017-04-24 16:54:46
+title:  "To-Do Web API"
+date:   2017-01-24 16:54:46
 author: Taylor Smith
 categories:
-- Book
-- C#
-- Software Fundamentals
-img: fundofcsharp.jpg
+- Tutorial
+- C# 
+- Web API 
+img: WebAPI.png
 thumb: fundofcsharp.jpg
 carousel:
-- fundofcsharp.jpg
+- WebAPI.png
 - single02.jpg
 - single03.jpg
-tagged: C#, Book, Software Fundamentals
+tagged: C#, Tutorial, Web API, Postman
 client: Self
-website: To be updated
+website: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
 ---
 #### Description
-I worked through a book titled "Fundamentals of Computer Programming with C#" by Svetlin Navok, Veselin Kolev, & Co. The book covered the fundamentals of software development with a focus on C#. Aside from the typical fundamentals, the book also focused on LINQ and other tools specific/unique to C# 
+Based on a tutorial titled "Create a web API with ASP.NET Core and Visual Studio for Windows" by Rick Anderson and Mike Wasson. The goal was to build a web API for managing a list of "to-do" items but no UI. An overview of the API is as follows: <br>
+ <ul>
+ <li>GET /api/todo: Get all to-do items</li>
+ <li>GET /api/todo/{id}: Get an item by ID</li>
+ <li>POST /api/todo: Add a new item</li>
+ <li>PUT /api/todo/{id}: Update an existing item</li>
+ <li>DELETE /api/todo/{id}: Delete an time</li>
+ </ul>
 
 #### Results
-Overall, I really learned a lot with this book and it has been the basis for all of my other app development, regardless of language. 
+This tutorial was a pretty good short introduction to Web API development. Overall I would say the project was successful. The link to the tutorial is to the right and here's a link to my repository on github for the project: <a href="https://github.com/TaylorCSmith/ToDoAPI" style="color:orange">Repository</a>

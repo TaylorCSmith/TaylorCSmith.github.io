@@ -77,7 +77,7 @@ members:
         url: https://www.omatum.com/
   - name: JumpyStick
     position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Has a great stream on twitch that is rapidly growing. Really helpful if you ask her for advice on stream or her discord.
     img: jumpy.jpg
     social:
       - title: twitch #use for email address
@@ -86,7 +86,7 @@ members:
         url: http://kat.cafe/
   - name: Matthew Mckinney
     position: Boosted Monkey
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: He's okay.
     img: matt.jpg
     social:
       - title: github #use for email address
