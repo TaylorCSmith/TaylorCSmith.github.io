@@ -13,7 +13,7 @@ carousel:
 - emb_sys.jpg
 tagged: C, edX, Embedded Systems, Hardware
 client: Self
-website: To be updated
+website: Expired
 ---
 #### Description (From Website)
 After the successful conclusion of this class, students should be able to understand the basic components of a computer, write C language programs that perform I/O functions and implement simple data structures, manipulate numbers in multiple formats, and understand how software uses global memory to store permanent information and the stack to store temporary information. Our goal is for students to learn these concepts:
@@ -33,4 +33,4 @@ After the successful conclusion of this class, students should be able to unders
 </ul>
 
 #### Results
-The course was pretty interesting overall. Since it covered so many topics, the course didn't go into too much detail on all of them but it gave a good overview in my opinion. It was nice coding and learning more about raw C from this course as I had never done that before and it was also cool to apply what I was already learning in school at the time to practical applications. I audited the course so no certificate was given.
+The course was pretty interesting overall. Since it covered so many topics, the course didn't go into too much detail on all of them but it gave a good overview in my opinion. It was nice coding and learning more about raw C from this course as I had never done that before and it was also cool to apply what I was already learning in school at the time to practical applications. I audited the course so no certificate was given. Here is a link to the CURRENT version of the course (content has changed) <a target="_blank" href="https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x" style="color:orange"> Course </a>
