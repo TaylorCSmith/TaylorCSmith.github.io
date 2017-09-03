@@ -11,7 +11,9 @@ img: fundofcsharp.jpg
 thumb: fundofcsharp.jpg
 ---
 
-<b>Fundamentals of Computer Programming with C#: The Bulgarian C# Book</b> is a book that I would highly recommend for anyone who has an interest in learning about C#. I can't speak for other C# books, but compared to book that I have used for C, C++, and Java, this book is great. I initially found the book under recommendation from a friend and immediately began to fall in love with it. If you are new to the language, and programming in general, this book covers everything from the very basics (data types, conditionals, so on) and then begins to go into more C# specific features such as LINQ. Below I'll break down in bullet points the main pros and cons of the book. 
+<b>Fundamentals of Computer Programming with C#: The Bulgarian C# Book</b> is a book that I would highly recommend for anyone who has an interest in learning about C#. I can't speak for other C# books, but compared to book that I have used for C, C++, and Java, this book is great. I initially found the book under recommendation from a friend and immediately began to fall in love with it. 
+<!--more-->
+If you are new to the language, and programming in general, this book covers everything from the very basics (data types, conditionals, so on) and then begins to go into more C# specific features such as LINQ. Below I'll break down in bullet points the main pros and cons of the book. 
 
 <b>Pros:</b>
 <ul>
