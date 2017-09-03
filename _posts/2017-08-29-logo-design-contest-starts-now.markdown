@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Book I Used to Learn C#"
+title: "The Book I Used to Learn C# Fundamentals"
 date: 2014-04-25 16:54:46
 author: Taylor
 categories:
