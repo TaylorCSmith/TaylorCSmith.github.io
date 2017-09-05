@@ -2,7 +2,7 @@
 layout: project
 title:  "Bicyclist Safety System"
 date:   2016-08-04 16:54:46
-author: Kevin Tsai, Alex Raspbury, Uyen Ngo, Carlos Banda, Taylor Smith
+author: Kevin Tsai, Alex Rasbury, Uyen Ngo, Carlos Banda, Taylor Smith
 categories:
 - Microcontrollers
 - Python
