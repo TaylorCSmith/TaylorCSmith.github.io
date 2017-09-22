@@ -86,8 +86,8 @@ members:
         url: http://kat.cafe/
   - name: Matthew Mckinney
     position: Boosted Monkey
-    text: He's okay.
-    img: matt.jpg
+    text: Guy who originally pushed me into C# and software and gave me a ton of resources for learning. His site has a lot of resources.
+    img: matt2.jpg
     social:
       - title: github #use for email address
         url: https://github.com/MattMcKinney
